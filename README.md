@@ -1,5 +1,5 @@
 ### Hello! Me chamo Gabriel Luan! 😀
-![Dev](https://img.shields.io/badge/Dev_gabriel-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+![Dev](https://img.shields.io/badge/Gabriel_Luan-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGabryel&show_icons=true&theme=tokyonight)  
 
