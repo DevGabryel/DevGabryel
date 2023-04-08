@@ -2,6 +2,7 @@
 ![Dev](https://img.shields.io/badge/Gabriel_Luan-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGabryel&show_icons=true&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabryel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Tecnologias que uso:
 
