@@ -1,4 +1,5 @@
 ### Olá me chamo Gabriel Luan, mas pode me chamar de Luan! 😀
+
 ![Dev](https://img.shields.io/badge/Gabriel_Luan-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Luan-developer&show_icons=true&theme=) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-developer&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
